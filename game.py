@@ -1,6 +1,6 @@
 import random
 
-number = random.randint(0, 101)
+number = random.randint(0, 1001)
 
 while True:
     answer = input("Enter the number: ")
